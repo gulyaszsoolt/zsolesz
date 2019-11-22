@@ -1,0 +1,2 @@
+# zsolesz
+Informatika terméktervezőknek - Portfólió
